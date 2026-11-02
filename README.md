@@ -10,17 +10,17 @@ LinkNest is an Android bookmark manager designed to help users save, organize, s
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Home Light](screenshots/home-light.png) | ![Home Dark](screenshots/home-dark.png) |
+| ![Home Light](screenshots/home-light.jpeg) | ![Home Dark](screenshots/home-dark.jpeg) |
 
 ### Other Screens
 
 | Collections | Favorites |
 |:---:|:---:|
-| ![Collections](screenshots/collections.png) | ![Favorites](screenshots/favorites.png) |
+| ![Collections](screenshots/collections.jpeg) | ![Favorites](screenshots/favorites.jpeg) |
 
 | Settings | Add Bookmark |
 |:---:|:---:|
-| ![Settings](screenshots/settings.png) | ![Add Bookmark](screenshots/add-bookmark.png) |
+| ![Settings](screenshots/settings.jpeg) | ![Add Bookmark](screenshots/add-bookmark.jpeg) |
 
 ## ✨ Features
 
